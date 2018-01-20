@@ -48,5 +48,5 @@ d: Psychedelic surprise!
 r: Reset active fractal!
 esc: Quit :(
  ```
-# Thanks
+### Acknowledgements
 Special thanks to fellow 42 USA cadet [ikarishe](https://github.com/RedPlacebo) for the inspiration to create Psychedelic mode!!
