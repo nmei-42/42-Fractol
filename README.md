@@ -1,7 +1,7 @@
 # 42-Fractol
 Exploring the wonderful world of fractals with the 42 mlx library.
 
-This program will generate a number of escape time fractals with the ability to zoom, cool color animations, and in some cases mouse interactivity!
+This program will generate a number of escape time fractals with the ability to zoom, cool color animations, and in some cases, mouse interactivity!
 
 ### Installation
 To generate an executable for this project run `make` in the root of the project directory after you've downloaded or cloned it.
@@ -48,3 +48,5 @@ d: Psychedelic surprise!
 r: Reset active fractal!
 esc: Quit :(
  ```
+# Thanks
+Special thanks to fellow 42 USA cadet [ikarishe](https://github.com/RedPlacebo) for the inspiration to create Psychedelic mode!!
