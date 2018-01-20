@@ -11,8 +11,7 @@ This project will only work on MacOS El Capitan/Sierra/HighSierra and even then,
 ### Usage
 After running `make` to generate the fractol executable you can run the program with `./fractol [fractol option]`
 
-Here is a list of possible fractals that this program can display
-
+Here is a list of possible fractals that this program can display:
 ```
 Fractol options (use number, not name!):
 0) Julia
