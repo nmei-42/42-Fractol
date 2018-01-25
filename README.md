@@ -49,3 +49,5 @@ esc: Quit :(
  ```
 ### Acknowledgements
 Special thanks to fellow 42 USA cadet [ikarishe](https://github.com/RedPlacebo) for the inspiration to create Psychedelic mode!!
+
+Many thanks as usual to [qst0](https://github.com/qst0) for maintaining multiple versions of the mlx library and for including really awesome documentation!
